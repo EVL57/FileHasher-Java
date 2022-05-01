@@ -1,2 +1,2 @@
 # FileHasher-Java
-Java Text GUI that hashes files and strings.
+Eclipse Java Text GUI that hashes files and strings.
